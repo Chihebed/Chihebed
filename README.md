@@ -7,19 +7,6 @@
 
 ---
 
-### En production
-
-| Produit | Description | Stack |
-|---|---|---|
-| **[Avogst](https://avogst.com)** | SaaS de gestion de cabinet d'avocats : dossiers, audiences, agenda, honoraires. Multi-cabinets, trilingue FR/AR/EN avec support RTL, journal d'audit, assistant IA | Next.js 15, React 19, Hono, Drizzle, PostgreSQL, Better Auth, Turborepo |
-| **[LobbyFit](https://frontend-one-sigma-38.vercel.app)** | Gestion de salles de sport : check-in par QR code, abonnements, planning et paie des coachs | TypeScript, Go, Docker |
-| **[Invitily](https://invitily.co)** | Invitations de mariage digitales : RSVP, album photo par QR, plan de table en ligne | Next.js, TypeScript |
-| **[Eskin](https://eskinglow.com)** | Boutique e-commerce de cosmétiques : site, API et back-office d'administration | Next.js, TypeScript |
-| **[GH PRO](https://ghpro.tn)** | Site vitrine et demande de devis pour un fabricant de portes automatiques | Next.js, Vercel |
-| **Yasmine** | Application Android islamique, 100 % hors ligne, sans publicité ni traceur | Kotlin |
-
----
-
 ### Compétences
 
 **Front-end**
@@ -67,6 +54,3 @@
 - **Multilingue** : interfaces FR / AR / EN avec un vrai support de l'arabe (RTL).
 - **Marché tunisien** : paiement à la livraison, prix en dinars, usages locaux.
 
----
-
-<p align="center"><i>La plupart de mes projets sont privés (code client). Les liens ci-dessus mènent aux versions en ligne.</i></p>
