@@ -5,6 +5,11 @@
   Je conçois, développe et déploie des applications de bout en bout, de l'API .NET au pipeline de mise en production sur Azure.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/chihebed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Ouvert_aux_opportunités-2EA043?style=for-the-badge" alt="Ouvert aux opportunités"/>
+</p>
+
 ---
 
 ### Compétences
