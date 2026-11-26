@@ -32,7 +32,10 @@
 
 **Mobile**
 <p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
 </p>
 
@@ -52,5 +55,6 @@
 - **Produits complets** : conception, base de données, API, interface, déploiement et nom de domaine.
 - **SaaS multi-tenant** : isolation des données par client, autorisations, journal d'audit.
 - **Multilingue** : interfaces FR / AR / EN avec un vrai support de l'arabe (RTL).
-- **Marché tunisien** : paiement à la livraison, prix en dinars, usages locaux.
+- **Mobile multiplateforme** : applications Android et iOS avec Flutter, ou natives en Kotlin.
+- **Projets internationaux** : clients en Tunisie et à l'international, en français, anglais et arabe.
 
